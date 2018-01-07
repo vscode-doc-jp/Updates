@@ -7,18 +7,19 @@ layout: update
 
 ### 2017
 
-| Ver   | Ja                                    | En                                                            |
-| :---: | :------------------------------------ | :------------------------------------------------------------ |
-| 1.19  | [November 2017](/updates/v1_19.html)  | [November 2017](https://code.visualstudio.com/updates/v1_19)  |
-| 1.17  | [September 2017](/updates/v1_17.html) | [September 2017](https://code.visualstudio.com/updates/v1_17) |
-| 1.16  | [August 2017](/updates/v1_16.html)    | [August 2017](https://code.visualstudio.com/updates/v1_16)    |
-| 1.15  | [July 2017](/updates/v1_15.html)      | [July 2017](https://code.visualstudio.com/updates/v1_15)      |
-| 1.14  | [June 2017](/updates/v1_14.html)      | [May 2017](https://code.visualstudio.com/updates/v1_14)       |
-| 1.13  | [May 2017](/updates/v1_13.html)       | [May 2017](https://code.visualstudio.com/updates/v1_13)       |
-| 1.12  | [April 2017](/updates/v1_12.html)     | [April 2017](https://code.visualstudio.com/updates/v1_12)     |
-| 1.11  | [March 2017](/updates/v1_11.html)     | [March 2017](https://code.visualstudio.com/updates/v1_11)     |
-| 1.10  | [February 2017](/updates/v1_10.html)  | [February 2017](https://code.visualstudio.com/updates/v1_10)  |
-| 1.9   | [January 2017](/updates/v1_9.html)    | [January 2017](https://code.visualstudio.com/updates/v1_9)    |
+| Ver   | Ja                                      | En                                                            |
+| :---: | :-------------------------------------- | :------------------------------------------------------------ |
+| 1.19  | [November 2017](/updates/v1_19.html)    | [November 2017](https://code.visualstudio.com/updates/v1_19)  |
+| 1.18  | ~~[October 2017](/updates/v1_18.html)~~ | [October 2017](https://code.visualstudio.com/updates/v1_19)   |
+| 1.17  | [September 2017](/updates/v1_17.html)   | [September 2017](https://code.visualstudio.com/updates/v1_17) |
+| 1.16  | [August 2017](/updates/v1_16.html)      | [August 2017](https://code.visualstudio.com/updates/v1_16)    |
+| 1.15  | [July 2017](/updates/v1_15.html)        | [July 2017](https://code.visualstudio.com/updates/v1_15)      |
+| 1.14  | [June 2017](/updates/v1_14.html)        | [May 2017](https://code.visualstudio.com/updates/v1_14)       |
+| 1.13  | [May 2017](/updates/v1_13.html)         | [May 2017](https://code.visualstudio.com/updates/v1_13)       |
+| 1.12  | [April 2017](/updates/v1_12.html)       | [April 2017](https://code.visualstudio.com/updates/v1_12)     |
+| 1.11  | [March 2017](/updates/v1_11.html)       | [March 2017](https://code.visualstudio.com/updates/v1_11)     |
+| 1.10  | [February 2017](/updates/v1_10.html)    | [February 2017](https://code.visualstudio.com/updates/v1_10)  |
+| 1.9   | [January 2017](/updates/v1_9.html)      | [January 2017](https://code.visualstudio.com/updates/v1_9)    |
 
 ### 2016
 
