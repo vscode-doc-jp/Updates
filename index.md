@@ -6,9 +6,11 @@ layout: update
 ドキュメントの翻訳状況
 
 ### 2018
-| Ver   | Ja                                      | En                                                            |
-| :---: | :-------------------------------------- | :------------------------------------------------------------ |
-| 1.20  | [January  2018](/updates/v1_20.html)    | [January  2018](https://code.visualstudio.com/updates/v1_20)  |
+| Ver   | Ja                                   | En                                                           |
+| :---: | :----------------------------------- | :----------------------------------------------------------- |
+| 1.22  | [March 2018](/updates/v1_22.html)    | [April 2018](https://code.visualstudio.com/updates/v1_22)    |
+| 1.21  | [February 2018](/updates/v1_21.html) | [February 2018](https://code.visualstudio.com/updates/v1_21) |
+| 1.20  | [January 2018](/updates/v1_20.html)  | [January 2018](https://code.visualstudio.com/updates/v1_20)  |
 
 ### 2017
 
